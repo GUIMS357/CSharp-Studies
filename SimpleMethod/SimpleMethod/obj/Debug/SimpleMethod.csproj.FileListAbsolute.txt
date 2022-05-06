@@ -1,0 +1,6 @@
+c:\users\guims357\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+c:\users\guims357\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+c:\users\guims357\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+c:\users\guims357\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+c:\users\guims357\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

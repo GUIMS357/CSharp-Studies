@@ -1,0 +1,7 @@
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\obj\Debug\AssemblesAndNamespaces.csprojAssemblyReference.cache
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\obj\Debug\AssemblesAndNamespaces.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\bin\Debug\AssemblesAndNamespaces.exe.config
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\bin\Debug\AssemblesAndNamespaces.exe
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\bin\Debug\AssemblesAndNamespaces.pdb
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\obj\Debug\AssemblesAndNamespaces.exe
+c:\users\guims357\source\repos\AssemblesAndNamespaces\AssemblesAndNamespaces\obj\Debug\AssemblesAndNamespaces.pdb

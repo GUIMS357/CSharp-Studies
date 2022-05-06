@@ -1,0 +1,7 @@
+c:\users\guims357\source\repos\Decisão\Decisão\obj\Debug\Decisão.csprojAssemblyReference.cache
+c:\users\guims357\source\repos\Decisão\Decisão\obj\Debug\Decisão.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\Decisão\Decisão\bin\Debug\Decisão.exe.config
+c:\users\guims357\source\repos\Decisão\Decisão\bin\Debug\Decisão.exe
+c:\users\guims357\source\repos\Decisão\Decisão\bin\Debug\Decisão.pdb
+c:\users\guims357\source\repos\Decisão\Decisão\obj\Debug\Decisão.exe
+c:\users\guims357\source\repos\Decisão\Decisão\obj\Debug\Decisão.pdb

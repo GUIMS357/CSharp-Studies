@@ -1,0 +1,7 @@
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csprojAssemblyReference.cache
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe.config
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.exe
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\bin\Debug\ObjectLifeTime.pdb
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.exe
+c:\users\guims357\source\repos\ObjectLifeTime\ObjectLifeTime\obj\Debug\ObjectLifeTime.pdb

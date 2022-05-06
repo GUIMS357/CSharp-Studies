@@ -1,0 +1,7 @@
+c:\users\guims357\source\repos\Varivaies\Varivaies\bin\Debug\Varivaies.exe.config
+c:\users\guims357\source\repos\Varivaies\Varivaies\bin\Debug\Varivaies.exe
+c:\users\guims357\source\repos\Varivaies\Varivaies\bin\Debug\Varivaies.pdb
+c:\users\guims357\source\repos\Varivaies\Varivaies\obj\Debug\Varivaies.csprojAssemblyReference.cache
+c:\users\guims357\source\repos\Varivaies\Varivaies\obj\Debug\Varivaies.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\Varivaies\Varivaies\obj\Debug\Varivaies.exe
+c:\users\guims357\source\repos\Varivaies\Varivaies\obj\Debug\Varivaies.pdb

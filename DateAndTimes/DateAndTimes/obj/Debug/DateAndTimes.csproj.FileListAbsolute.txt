@@ -1,0 +1,6 @@
+c:\users\guims357\source\repos\DateAndTimes\DateAndTimes\bin\Debug\DateAndTimes.exe.config
+c:\users\guims357\source\repos\DateAndTimes\DateAndTimes\bin\Debug\DateAndTimes.exe
+c:\users\guims357\source\repos\DateAndTimes\DateAndTimes\bin\Debug\DateAndTimes.pdb
+c:\users\guims357\source\repos\DateAndTimes\DateAndTimes\obj\Debug\DateAndTimes.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\DateAndTimes\DateAndTimes\obj\Debug\DateAndTimes.exe
+c:\users\guims357\source\repos\DateAndTimes\DateAndTimes\obj\Debug\DateAndTimes.pdb

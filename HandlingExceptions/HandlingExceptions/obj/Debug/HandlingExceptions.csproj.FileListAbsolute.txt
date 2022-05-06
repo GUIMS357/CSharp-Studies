@@ -1,0 +1,6 @@
+C:\Users\GUIMS357\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\GUIMS357\source\repos\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\Users\GUIMS357\source\repos\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\Users\GUIMS357\source\repos\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\Users\GUIMS357\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\Users\GUIMS357\source\repos\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

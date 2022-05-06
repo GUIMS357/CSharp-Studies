@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClasses", "SimpleClasses\SimpleClasses.csproj", "{BDDC4501-440F-473F-8295-0774FAD8860F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDC4501-440F-473F-8295-0774FAD8860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC4501-440F-473F-8295-0774FAD8860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC4501-440F-473F-8295-0774FAD8860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC4501-440F-473F-8295-0774FAD8860F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {659CF2CC-77E1-4F79-BED5-4856C0F56D6C}
+	EndGlobalSection
+EndGlobal

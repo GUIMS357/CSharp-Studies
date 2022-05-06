@@ -1,0 +1,6 @@
+c:\users\guims357\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+c:\users\guims357\source\repos\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+c:\users\guims357\source\repos\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+c:\users\guims357\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+c:\users\guims357\source\repos\ForIteration\ForIteration\obj\Debug\ForIteration.pdb

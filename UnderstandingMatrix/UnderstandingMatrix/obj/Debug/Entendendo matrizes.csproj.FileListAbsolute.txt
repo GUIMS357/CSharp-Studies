@@ -1,0 +1,6 @@
+c:\users\guims357\source\repos\Entendendo matrizes\Entendendo matrizes\bin\Debug\Entendendo matrizes.exe.config
+c:\users\guims357\source\repos\Entendendo matrizes\Entendendo matrizes\bin\Debug\Entendendo matrizes.exe
+c:\users\guims357\source\repos\Entendendo matrizes\Entendendo matrizes\bin\Debug\Entendendo matrizes.pdb
+c:\users\guims357\source\repos\Entendendo matrizes\Entendendo matrizes\obj\Debug\Entendendo matrizes.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\Entendendo matrizes\Entendendo matrizes\obj\Debug\Entendendo matrizes.exe
+c:\users\guims357\source\repos\Entendendo matrizes\Entendendo matrizes\obj\Debug\Entendendo matrizes.pdb

@@ -1,0 +1,7 @@
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\obj\Debug\UndestandingScopes.csprojAssemblyReference.cache
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\obj\Debug\UndestandingScopes.csproj.CoreCompileInputs.cache
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\bin\Debug\UndestandingScopes.exe.config
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\bin\Debug\UndestandingScopes.exe
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\bin\Debug\UndestandingScopes.pdb
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\obj\Debug\UndestandingScopes.exe
+c:\users\guims357\source\repos\UndestandingScopes\UndestandingScopes\obj\Debug\UndestandingScopes.pdb
